@@ -10,6 +10,6 @@ Links are made like [this](https://p5js.org). See ReadMe for "code".
 
 Here is **bold**, *itallic*, and ~strikethrough~. It works a lot like discord. Funny.
 
-## This is how to make an image.
+## This is how to make an image
 
 ![This is a raccoon.](https://t3.ftcdn.net/jpg/01/73/37/16/360_F_173371622_02A2qGqjhsJ5SWVhUPu0t9O9ezlfvF8l.jpg)
