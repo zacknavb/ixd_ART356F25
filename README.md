@@ -16,4 +16,4 @@ Here is **bold**, *itallic*, and ~strikethrough~. It works a lot like discord. F
 
 ## Journal Entries
 
-Visit my [journal 01](journal/8.26.2025-entry.md)
+Visit my [journal 01](journal/8.26.2025-entry.md).
