@@ -20,4 +20,4 @@ Here is **bold**, *itallic*, and ~strikethrough~. It works a lot like discord. F
 
 ## Exercise Entries
 
-[Character Randomizer](exercises/charactercreation)
+[Character Randomizer](exercises/characterrandomizer)
