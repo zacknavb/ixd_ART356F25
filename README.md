@@ -14,6 +14,9 @@ Here is **bold**, *itallic*, and ~strikethrough~. It works a lot like discord. F
 
 ![This is a raccoon.](https://t3.ftcdn.net/jpg/01/73/37/16/360_F_173371622_02A2qGqjhsJ5SWVhUPu0t9O9ezlfvF8l.jpg)
 
+## Projects
+
+[Project 1](project1/index.html)
 ## Journal Entries
 
 [Chapter 1](journal/8.26.2025-entry.md)
