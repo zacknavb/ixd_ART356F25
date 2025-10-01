@@ -9,8 +9,6 @@ h1, h2, h3, p {
   text-align: center;
 }
 canvas {
-  left: 50%;
-  top: 65%;
-  transform: translate(-50%, -50%);
-  position: absolute;
+  display: block;
+  margin: auto;
 }
