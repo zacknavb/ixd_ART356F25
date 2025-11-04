@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Lobster';
+  src: url('LobsterTwo-Regular.otf');
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  background: rgb(59, 66, 58);
+  text-align: center;
+}
+h1 {
+  font-family: 'Lobster';
+  color: rgb(179, 158, 102);
+  text-decoration: underline;
+}
+p, h2, h3 {
+  color: rgb(179, 158, 102);
+}
+canvas {
+  display: block;
+  margin: auto;
+  border-radius: 12px;
+}
+a:link {
+  color: rgb(179, 158, 102);
+}
+a:visited {
+  color: rgb(125, 112, 77);
+}
+a:hover {
+  color: rgb(255, 239, 196);
+}
+
