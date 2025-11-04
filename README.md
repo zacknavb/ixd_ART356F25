@@ -17,6 +17,7 @@ Here is **bold**, *itallic*, and ~strikethrough~. It works a lot like discord. F
 ## Projects
 
 [Project 1](project1/index.html)
+<br>
 [Project 2](project2/index.html)
 ## Journal Entries
 
