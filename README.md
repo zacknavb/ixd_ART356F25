@@ -20,7 +20,7 @@ Here is **bold**, *itallic*, and ~strikethrough~. It works a lot like discord. F
 <br>
 [Project 2](project2/index.html)
 <br>
-[Project 3](Project 3/index.hyml)
+[Project 3](project_3/index.html)
 ## Journal Entries
 
 [Chapter 1](journal/8.26.2025-entry.md)
