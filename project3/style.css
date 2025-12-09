@@ -1,11 +1,33 @@
+@font-face {
+  font-family: 'Darinia';
+  src: url('Darinia.ttf');
+  font-family: 'Anxel';
+  src: url('Anxel.ttf');
+}
+
 html, body {
   margin: 0;
   padding: 0;
   background-color: rgb(31, 30, 30);
+  text-align: center;
   cursor: url('assets/ui/htmlcursor.png'), auto;
 }
 
 canvas {
   display: block;
   margin: auto;
+}
+
+h1 {
+  font-family: 'Darinia';
+  color: white;
+}
+
+h2, h3 {
+  color: white;
+  font-family: 'Anxel';
+}
+
+p  {
+  color: white;
 }
