@@ -128,7 +128,7 @@ function setup() {
   gamefont = loadFont("Darinia.ttf");
   titlefont = loadFont("Anxel.ttf");
   song.loop();
-  pixelDensity(10);
+  pixelDensity(1);
 
   switch (scene) {
     case 0: {
