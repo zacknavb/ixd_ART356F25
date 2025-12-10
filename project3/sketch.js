@@ -1142,7 +1142,7 @@ function draw() {
       }
       rect(width / 2 + 5, 469, 500, 30, 5);
       textAlign(CENTER);
-      if (cd == 500) {
+      if (cd >= 600) {
         noFill();
       } else {
         fill(250, 233, 185);
